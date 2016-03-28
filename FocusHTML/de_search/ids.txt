@@ -1,0 +1,69 @@
+1
+ Manual Focus ERP
+ index.htm
+2
+ 1. Operações Básicas do Sistema
+ operacoes_basicas_do_sistema.htm
+3
+ 1.1. Cadastro de Figura Fiscal
+ cadastro_de_figura_fiscal.htm
+4
+ 1.2. Cadastro de Produtos
+ cadastro_de_produtos.htm
+5
+ 1.2.1. Dados do Produto
+ dados_do_produto.htm
+6
+ 1.2.2. Dados Comerciais do Produto
+ dados_comerciais_do_produto.htm
+7
+ 1.3. Alteração de Preços
+ alteracao_de_precos.htm
+8
+ 1.3.1. Alterar Preço do Produto
+ alterar_preco_do_produto.htm
+9
+ 1.3.2. Alterar Preço de Produto no Cadastro
+ alterar_preco_de_produto_no_cadastro.htm
+10
+ 1.4. Cargas de Produtos
+ cargas_de_produtos.htm
+11
+ 1.5. Exportar Produtos para Balança
+ exportar_produtos_para_balanca.htm
+12
+ 1.6. Cadastro Fornecedor
+ cadastro_fornecedor.htm
+13
+ 1.6.1. Aba Cadastral.
+ aba_cadastral_.htm
+14
+ 1.6.2. Aba Comercial
+ aba_comercial.htm
+15
+ 1.6.3. Aba Realcionamento
+ aba_realcionamento.htm
+16
+ 1.6.4. Aba Parâmetros
+ aba_parametros.htm
+17
+ 1.6.5. Consulta Fornecedor
+ consulta_fornecedor.htm
+18
+ 1.7. Financeiro
+ financeiro.htm
+19
+ 1.7.1. Abertura Dia Financeiro
+ abertura_dia_financeiro.htm
+20
+ 1.7.2. Consulta Dia Financeiro
+ consulta_dia_financeiro.htm
+21
+ 1.7.3. Bancos e Conta
+ bancos_e_conta.htm
+22
+ 1.7.3.1. Incluir Conta Banco
+ incluir_conta_banco.htm
+23
+ 1.7.4. Centros de Custos
+ centros_de_custos.htm
