@@ -35,14 +35,14 @@
  1.6. Cadastro Fornecedor
  cadastro_fornecedor.htm
 13
- 1.6.1. Aba Cadastral.
- aba_cadastral_.htm
+ 1.6.1. Aba Cadastral
+ aba_cadastral.htm
 14
  1.6.2. Aba Comercial
  aba_comercial.htm
 15
- 1.6.3. Aba Realcionamento
- aba_realcionamento.htm
+ 1.6.3. Aba Relacionamento
+ aba_relacionamento.htm
 16
  1.6.4. Aba Parâmetros
  aba_parametros.htm
@@ -67,3 +67,6 @@
 23
  1.7.4. Centros de Custos
  centros_de_custos.htm
+24
+ 1.7.5. Autorização Detalhada de Títulos
+ autorizacao_detalhada_de_titulos.htm

@@ -1,6 +1,4 @@
-JA
- 19,20,10
-JURIDICA
+JURÍDICA
  13
 JÁ
- 10
+ 10,19
